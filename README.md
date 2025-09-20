@@ -1,4 +1,4 @@
-# 🍽️Foodie — A Tastefully Crafted Food Delivery Web-Page
+# 🍽️Foodie - A Tastefully Crafted Food Delivery Web-Page
 
 Challenge yourself to apply your HTML-CSS expertise as you build an enticing food delivery web page, where the aroma of delicious dishes meets the visual delight of an impeccably designed online platform.
 
