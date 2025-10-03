@@ -6,7 +6,7 @@ Challenge yourself to apply your HTML-CSS expertise as you build an enticing foo
 
 **Foodie** is a front-end web project designed to simulate a modern food delivery experience. Built using pure HTML and CSS, this platform showcases your ability to blend aesthetic design with functional layout—ideal for recruiters seeking both creativity and precision.
 
-> “Where flavors meet pixels, and cravings find code.”
+``` “Where flavors meet pixels, and cravings find code.” ```
 
 ## 🎯 Features
 
